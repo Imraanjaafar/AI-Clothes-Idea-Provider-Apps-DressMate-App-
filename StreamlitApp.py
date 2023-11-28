@@ -1,13 +1,11 @@
 import os
 import streamlit as st
 from openai import OpenAI
-from dotenv import load_dotenv
 from PIL import Image
 import requests
 
-load_dotenv()
-
-client = OpenAI(api_key=os.environ['OPENAI_API_KEY'])
+openai_api_key = st.secrets["OPENAI_API_KEY"]
+client = OpenAI(api_key=openai_api_key)
 
 # Confirm Button
 def clothes_idea_provider(msg):
