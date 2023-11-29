@@ -1,6 +1,6 @@
 # AI-Clothes-Idea-Provider-Apps-DressMate-App-
 
-## Welcome to DressMate, your AI-powered personal stylist! DressMate generates personalized clothing suggestions and designs based on your preferences. Whether you prefer making choices or providing a text description, DressMate has you covered.
+Welcome to DressMate, your AI-powered personal stylist! DressMate generates personalized clothing suggestions and designs based on your preferences. Whether you prefer making choices or providing a text description, DressMate has you covered.
 
 ### Features
 - Choices Page: Customize your wardrobe by selecting gender, age, clothing types, and more.
