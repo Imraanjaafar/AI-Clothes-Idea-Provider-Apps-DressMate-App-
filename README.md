@@ -35,13 +35,13 @@ Caption: Text Input Page
 
 ![screencapture-dressmate-streamlit-app-2023-11-29-15_06_16](https://github.com/Imraanjaafar/AI-Clothes-Idea-Provider-Apps-DressMate-App-/assets/151133555/5b139bcc-4c04-4fb8-af60-487d9b506c74)
 
-About
-DressMate uses OpenAI's GPT-3.5 Turbo for natural language understanding and DALL-E-3 for image generation.
+## About
+- DressMate uses OpenAI's GPT-3.5 Turbo for natural language understanding and DALL-E-3 for image generation.
 
-Get ready to elevate your style with DressMate! 🚀
+### Get ready to elevate your style with DressMate! 🚀
 
 Streamlit cloud : https://dressmate.streamlit.app/
 
-For more information:
+### For more information:
 
 Gamma AI: https://gamma.app/docs/ABOUT-ME-yd72fqgzjj10gj2?mode=doc
